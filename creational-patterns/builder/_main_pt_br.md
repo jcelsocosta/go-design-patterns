@@ -11,5 +11,5 @@ O director define a ordem na qual executar as etapas de construção[2]. O direc
 * Quando deseja criar um objeto passo a passo preenchendo os seus campos
 
 ## Referências bibliográficas
-[1] - Megulho nos padrões de projetos, Alexander Shvets
+[1] - Megulho nos padrões de projetos, Alexander Shvets  
 [2] - Go Design Patterns, Mario Castro Contreras
