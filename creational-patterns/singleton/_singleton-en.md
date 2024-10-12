@@ -9,5 +9,5 @@ It is a creational design pattern that allows you to ensure that a class has onl
 * When you need to limit access to some variable or space, you use a singleton as a port for that variable
 
 ## References
-[1] - Megulho nos padrões de projetos, Alexander Shvets
+[1] - Megulho nos padrões de projetos, Alexander Shvets  
 [2] - Go Design Patterns, Mario Castro Contreras

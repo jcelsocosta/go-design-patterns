@@ -9,5 +9,5 @@
 * Quando você precisar limitar o acesso a alguma variável ou espaço, você usa um singleton como porta para essa variável
 
 ## Referências bibliográficas
-[1] - Megulho nos padrões de projetos, Alexander Shvets
+[1] - Megulho nos padrões de projetos, Alexander Shvets  
 [2] - Go Design Patterns, Mario Castro Contreras
