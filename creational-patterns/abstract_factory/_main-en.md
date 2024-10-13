@@ -1,7 +1,7 @@
 # Abstract Factory pattern explained
 
 ## Abstract Factory
-Abstract Factory is a creational design pattern that allows you to produce families of related objects without having to specify their concrete classes..[1]
+Abstract Factory is a creational design pattern that allows you to produce families of related objects without having to specify their concrete classes.[1]
 
 ## When to use it
 * When you want to provide a new layer of encapsulation for factory methods that return a common interface for all factories
