@@ -6,11 +6,11 @@ blema de projeto recorrente em seu código.[1]
 
 Existem alguns grupos de padrões de projetos que são: criacionais, estruturais, comportamentais.
 
-* Padrões criacionais fornecem mecanismos de criação de objetos aumentam a flexibilidade e a reutilização de código.
+* __Padrões criacionais__ fornecem mecanismos de criação de objetos aumentam a flexibilidade e a reutilização de código.
 
-* Padrões estruturais explicam como montar objetos e classes em estruturas maiores, enquanto ainda mantém a estrutura flexíveis e eficientes.
+* __Padrões estruturais__ explicam como montar objetos e classes em estruturas maiores, enquanto ainda mantém a estrutura flexíveis e eficientes.
 
-* Padrões comportamentais cuidam da comnunicação eficiente e da assinalação de responsabilidades entre objetos.
+* __Padrões comportamentais__ cuidam da comnunicação eficiente e da assinalação de responsabilidades entre objetos.
 
 ## Princípios SOLID
 __Single Responsibility Principle__ - Cada classe seja responsável por uma única parte da funcionalidade fornecida pelo software, e faça aquela responsabilidade ser inteiramente encapsulada pela classe.[1]

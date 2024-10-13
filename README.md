@@ -3,11 +3,11 @@ Design patterns are typical solutions to common problems in software design. The
 
 There are a few groups of design patterns: creational, structural, and behavioral.
 
-* Creational patterns provide mechanisms for creating objects that increase flexibility and code reuse.
+* __Creational__ patterns provide mechanisms for creating objects that increase flexibility and code reuse.
 
-* Structural patterns explain how to assemble objects and classes into larger structures, while still keeping the structure flexible and efficient.
+* __Structural__ patterns explain how to assemble objects and classes into larger structures, while still keeping the structure flexible and efficient.
 
-* Behavioral patterns take care of efficient communication and assignment of responsibilities between objects.
+* __Behavioral__ patterns take care of efficient communication and assignment of responsibilities between objects.
 
 ## Princípios SOLID
 __Single Responsibility Principle__ - Each class is responsible for a single piece of functionality provided by the software, and has that responsibility be entirely encapsulated by the class.[1]
