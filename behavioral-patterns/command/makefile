@@ -3,4 +3,4 @@
 run: main
 
 main:
-	go run mediator.go
+	go run command.go
