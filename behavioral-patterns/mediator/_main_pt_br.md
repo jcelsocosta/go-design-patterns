@@ -8,7 +8,7 @@ objetos e os força a colaborar apenas através do
 objeto mediador.[1]
 
 ## Quando usar
-* Quando você deseja fornecer acoplamento frouxo entre dois objetos que devem se comunicar entre si
+* Quando você deseja fornecer baixo acoplamento entre dois objetos que devem se comunicar entre si
 * Quando você deseja reduzir a quantidade de dependências de um tipo específico ao mínimo, passando essas necessidades para o padrão mediador
 
 ## Referências bibliográficas
