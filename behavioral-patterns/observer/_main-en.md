@@ -1,6 +1,6 @@
-# Observer Factory pattern explained
+# Observer pattern explained
 
-## Observer Factory
+## Observer
 The Observer is a behavioral design pattern that allows you to define a subscription mechanism to notify multiple objects about any events that happen to the object they are observing..[1]
 
 ## When to use it
