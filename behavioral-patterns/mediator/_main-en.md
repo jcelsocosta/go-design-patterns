@@ -1,6 +1,6 @@
-# Mediator Factory pattern explained
+# Mediator pattern explained
 
-## Mediator Factory
+## Mediator
 The Mediator is a behavioral design pattern that allows you to reduce chaotic dependencies between objects. The pattern restricts direct communications between objects and forces collaboration only through the mediator object.[1]
 
 ## When to use it
